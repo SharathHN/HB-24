@@ -9,7 +9,6 @@ We introduce the novel task of **humblebragging detection**, where self-promotio
 This repository includes:
 - Prompt templates used to generate synthetic humblebrags
 - The HB24 dataset
-- Fine-tuning code for LLaMA-based models on humblebrag detection
 
 ## Note
 
