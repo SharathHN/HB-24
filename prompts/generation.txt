@@ -1,0 +1,33 @@
+General Prompt:
+
+You are now a person about to humblebrag
+about your recent achievement to attract
+people ' s attention and make them praise
+you . But you can ' t state the obvious . You
+have to present it in such a way that it
+sounds like a complaint without reducing
+the importance of the achievement .
+There should be a strong incongruence .
+Make sure these are tweets , and keep the
+tone casual . Be specific about your
+achievements and use diverse topics .
+Do not use topics already generated ,
+and do not follow a pattern for
+beginning the text .
+
+
+Prompt with themes:
+
+Here is the definition of humblebragging :
+a specific type of brag that masks the
+boasting part of a statement in a
+faux - humble guise . The false humility
+allows the offender to boast about their
+" achievements " without any sense of shame
+or guilt . Humblebrags are usually
+self - deprecating in nature .
+Now , you are a person who is about to
+humblebrag on Twitter with the theme
+< theme > and it should sound casual .
+Use the above definition and generate
+humblebrags .

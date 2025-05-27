@@ -1,0 +1,119 @@
+Z (Zero-Shot):
+
+### Question : Is this a humble brag ?
+Answer in yes or no only .
+### Statement : { data_point [ ' text ']}
+### Answer :
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________
+Z+D (Zer-Shot + Definition):
+'''
+A humble brag comprises the following
+components :
+
+1. Brag :
+- The segment of the text that
+explicitly conveys the act of
+bragging .
+
+2. Brag Theme :
+- The overarching theme or specific
+category of the brag embedded within
+the statement .
+- Possible categories include :
+- Looks and Attractiveness
+- Achievements
+- Performance at Work
+- Money and Wealth
+- Intelligence
+- Personality
+- Social Life
+- Miscellaneous
+
+3. Humble Mask :
+- The element of the text that adopts
+a modest or self - deprecating tone to
+obscure or mitigate the act of
+bragging .
+
+4. Mask Type :
+- Specifies whether the humble mask
+adopts a modest tone or a
+self - deprecating approach .
+
+Now you are about to classify if a given
+sentence is a humble brag or not using
+the above definition .
+'''
+__________________________________________________________________________________________________________________________________________________________________________________________________________
+Random:
+'''
+A Quantum Pancake involves the following
+components :
+
+1. Flapjack Fluctuation :
+- Analyze the positive or negative
+curvature of the syrupy timeline
+as the pancake flips through
+space - time .
+
+2. Stack Dynamics :
+- Identify the structural
+integrity of the pancake layers
+and their inter - dimensional
+fluffiness coefficient .
+
+3. Butter Singularities :
+- Highlight the concentrated
+points of creamy chaos where the
+butter both exists and does not
+exist simultaneously .
+
+4. Maple Entanglement :
+- Describe the sticky phenomena
+where the syrup defies Newtonian
+logic to connect pancakes across
+parallel brunch universes .
+
+Now you are about to classify if a given
+sentence is a humble brag or not using
+the above definition .
+'''
+___________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Sentiment Oppposition:
+
+'''
+The Sentiment Opposition Model ( SOM ) for
+Humblebragging consists of the following
+components :
+
+1. Surface Sentiment ( SS ):
+- The apparent emotional tone of
+the statement , usually negative
+( complaint )
+or neutral ( modest ).
+
+2. Intended Sentiment ( IS ):
+- The actual meaning the speaker
+conveys , which is typically
+positive and self - promotional .
+
+3. Sentiment Opposition ( SO ):
+- The contrast between SS and IS .
+If SS is negative / neutral but IS
+implies success or pride ,
+opposition exists .
+
+4. Humblebrag Classification :
+- If SO exists , classify the
+statement as a humblebrag .
+- If SO doesn ' t exist , classify
+as not a humblebrag
+
+Now you are about to classify if a given
+sentence is a humblebrag or not using
+the above definition .
+'''/
+
+
